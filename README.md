@@ -20,7 +20,7 @@
 
 *checkboxes:* check or uncheck boxes to toggle what devices can wake the computer from sleep
 
-📥 how to download and run
+## 📥 how to download and run
 
 1. Download *wake_manager.exe* directly from this repository (or from the Releases section).
 
