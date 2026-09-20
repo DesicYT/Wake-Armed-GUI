@@ -30,7 +30,7 @@
 
 
 
-### ⚠️ important: administrator rights required
+## ⚠️ important: administrator rights required
 
 you have to have admin permissions to use powercfg in general so you need to have admin rights to use this tool. 
 
